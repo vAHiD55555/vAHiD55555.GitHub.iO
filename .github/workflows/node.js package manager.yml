@@ -1,0 +1,7 @@
+- name: node.js package manager identifier
+
+  # You may pin to the exact commit or the version.
+
+  # uses: JoeKarow/act-which-package-mgr@f9e0103feecf7bee65f0d8c6158ec93ff0a5fcb6
+
+  uses: JoeKarow/act-which-package-mgr@v1.0.0
