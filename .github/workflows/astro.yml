@@ -86,3 +86,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+- name: SecureStack All-In-One GitHub Action
+
+  uses: SecureStackCo/actions-all-in-one@v0.1.2
+
